@@ -15,8 +15,8 @@
 
 ## Cross-Compiler
 
-| Compiler                 | Result                                                                                                                                                   |
-|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| MOSpeed (1.0.7.1)        | no errors                                                                                                                                                |
-| YAB (0.9.11)             | BASIC error when reading DATA lines for setup                                                                                                            |
-| ABC (version 2026-08-30) | error in "Integer overflow 2+4", error in "Random numbers", error in "Boolean 1+2", BASIC error in "FOR loop 1", ignores upper/lower case in source code |
+| Compiler                 | Result                                                                                                                                                              |
+|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| MOSpeed (1.0.7.1)        | no errors                                                                                                                                                           |
+| YAB (0.9.11)             | BASIC error when reading DATA lines for setup                                                                                                                       |
+| ABC (version 2026-08-30) | error in "Integer overflow 2+4", error in "Random numbers", error in "Boolean 1+2", BASIC error in "FOR loop 1"; then exit, ignores upper/lower case in source code |
