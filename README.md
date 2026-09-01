@@ -2,6 +2,8 @@
 
 This project contains a Commodore 64 BASIC V2 compatibility test suite used to validate compiler/runtime behavior across a set of edge-cases.
 
+![BASIC V2 Compatibility Suite](compsuite.png)
+
 ## Project Contents
 
 - `src/compsuite.bas` - Main BASIC V2 compatibility suite with 17 tests.
